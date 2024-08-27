@@ -1,15 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.838dca03.css",
-    "main.js": "/portfolio/static/js/main.dd06370d.js",
+    "main.css": "/portfolio/static/css/main.f3d1a9d2.css",
+    "main.js": "/portfolio/static/js/main.f5ccab30.js",
     "static/js/453.c93005ca.chunk.js": "/portfolio/static/js/453.c93005ca.chunk.js",
+    "static/media/inventory_rdr2_1.png": "/portfolio/static/media/inventory_rdr2_1.a4624f263e2a1f73f911.png",
+    "static/media/1722785794.png": "/portfolio/static/media/1722785794.58aa8808b97fbe0084d4.png",
+    "static/media/1722785755.png": "/portfolio/static/media/1722785755.300cb3a04df406e65b9b.png",
+    "static/media/1722785798.png": "/portfolio/static/media/1722785798.1c1b91e19ea5d1e4ef01.png",
+    "static/media/inventory_gta5_1.png": "/portfolio/static/media/inventory_gta5_1.cc4bfb6763f5146f08a3.png",
+    "static/media/etaxi-admin.png": "/portfolio/static/media/etaxi-admin.c042b0de69f928369dc0.png",
+    "static/media/1722785758.png": "/portfolio/static/media/1722785758.c907280d1b2535229bb3.png",
+    "static/media/1.png": "/portfolio/static/media/1.79e3d8e4071619c6490f.png",
+    "static/media/2.png": "/portfolio/static/media/2.8a54e290fd03d8c0db2c.png",
+    "static/media/mission-1.png": "/portfolio/static/media/mission-1.c7aae8fef07600c02662.png",
+    "static/media/notif-1.png": "/portfolio/static/media/notif-1.2deff700139be10b6a01.png",
+    "static/media/playerinfos-1.png": "/portfolio/static/media/playerinfos-1.935d2aaed5f67f1fffeb.png",
+    "static/media/ingameapp-1.png": "/portfolio/static/media/ingameapp-1.75d037c50ff5ee18853e.png",
+    "static/media/loader-1.png": "/portfolio/static/media/loader-1.a97a0e81144acb1e427c.png",
+    "static/media/ingameapp-3.png": "/portfolio/static/media/ingameapp-3.6a8463fea533f29989d1.png",
+    "static/media/ingameapp-2.png": "/portfolio/static/media/ingameapp-2.fc031f38b9f5050a7eb9.png",
+    "static/media/alttab.png": "/portfolio/static/media/alttab.d9e2f612faa5a5bc53a7.png",
+    "static/media/announcement-1.png": "/portfolio/static/media/announcement-1.beb53fc352377a5608d7.png",
+    "static/media/unityrp.svg": "/portfolio/static/media/unityrp.36895beca7b6cea58537.svg",
     "index.html": "/portfolio/index.html",
-    "main.838dca03.css.map": "/portfolio/static/css/main.838dca03.css.map",
-    "main.dd06370d.js.map": "/portfolio/static/js/main.dd06370d.js.map",
+    "main.f3d1a9d2.css.map": "/portfolio/static/css/main.f3d1a9d2.css.map",
+    "main.f5ccab30.js.map": "/portfolio/static/js/main.f5ccab30.js.map",
     "453.c93005ca.chunk.js.map": "/portfolio/static/js/453.c93005ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.838dca03.css",
-    "static/js/main.dd06370d.js"
+    "static/css/main.f3d1a9d2.css",
+    "static/js/main.f5ccab30.js"
   ]
 }
